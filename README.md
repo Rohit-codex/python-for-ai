@@ -1,2 +1,22 @@
 # python-for-ai
 Structured Python practice repository focused on programming and AI foundations.
+
+# Python for AI and Development
+
+This repository contains Python programs, concept implementations, and practice exercises focused on strengthening core programming skills for AI/ML development and technical interviews.
+
+## Topics Covered
+- Variables and Data Types
+- Operators and Expressions
+- Control Flow
+- Functions
+- Object-Oriented Programming
+- File Handling
+- NumPy and Pandas
+- Problem Solving
+
+## Goals
+- Build strong Python fundamentals
+- Prepare for AI/ML projects
+- Improve coding proficiency
+- Maintain consistent practice and revision
