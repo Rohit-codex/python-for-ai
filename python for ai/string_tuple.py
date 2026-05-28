@@ -30,7 +30,7 @@ print(marks) # [88.5, 91.0, 92.0, 94.2]
 marks.sort(reverse=True) # sorts the list in descending order
 print(marks) # [94.2, 92.0, 91.0, 88.5]
 marks.reverse() # reverses the order of the list
-print(marks) # [88.5, 91.0, 92.0, 94.2]
+print(marks.reverse()) # [88.5, 91.0, 92.0, 94.2]
 
 # Tuple is a collection of items which is ordered and unchangeable. It allows duplicate members.
 tup = (94.2, 88.5, 92.0 , 85.0) # using tuple to store marks
