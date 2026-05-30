@@ -38,4 +38,17 @@ elif ( unit == "L" ) :
 else:
     print("invalid category")  
 
-       
+# temperature conversion 
+# celcius to kelvin and kelvin to celcius
+    
+temperature = float (input("enter temperature: "))
+unit = input("celcius or pound (C or K): ")
+
+if (unit == "C"):
+    temperature = temperature + 273
+    print(round(temperature))
+elif (unit == "K"):
+    temperature = 273 - temperature    
+    print(round(temperature))
+else : 
+    print("Invalid request")
